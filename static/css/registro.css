@@ -13,7 +13,7 @@ section{
     height:100vh;
 }
 section .registro-img{
-    background-image: url(/img/registro-clientes.jpg);
+    background-image: url(/static/img/registro-clientes.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
